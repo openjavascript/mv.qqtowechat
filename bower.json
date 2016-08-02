@@ -1,0 +1,26 @@
+{
+  "name": "mv.qqtowechat.js",
+  "main": "mv.qqtowechat.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/openjavascript/mv.qqtowechat.js",
+  "authors": [
+    "qiushaowei <qiushaowei@360.cn>"
+  ],
+  "description": "",
+  "keywords": [
+    "mv.qqtowechat.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+ 	"mv.js": "~0.0.5"
+  },
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
