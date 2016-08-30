@@ -1,0 +1,26 @@
+{
+  "name": "mv.qqtowechat.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mv.qqtowechat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openjavascript/mv.qqtowechat.js.git"
+  },
+  "keywords": [
+    "mv.js",
+    "mvproject"
+  ],
+  "author": "suches <suches@btbtd.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openjavascript/mv.qqtowechat.js/issues"
+  },
+  "homepage": "https://github.com/openjavascript/mv.qqtowechat.js#readme",
+  "dependencies": {
+    "mv.js": "^1.0.0"
+  }
+}
